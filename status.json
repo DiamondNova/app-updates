@@ -1,0 +1,9 @@
+{
+  "status": "active",
+  "valid_until": "2026-08-03T18:24:14.555839Z",
+  "grace_days": 5,
+  "message": "All systems operational",
+  "min_version": "0.3.0",
+  "last_updated": "2026-05-08T18:24:14.556007Z",
+  "signature": "f241c169fb8bf7e3a2bbca4fd8d0399a7b230c55aac3186a873e4be912e035a506afec015505438b83ac5182064072a44f36a81e169e1959ad3fc23e03797307"
+}
