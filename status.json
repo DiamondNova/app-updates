@@ -1,7 +1,7 @@
 {
   "status": "active",
   "valid_until": "2026-08-03T18:24:14.555839Z",
-  "grace_days": 5,
+  "grace_days": 8,
   "message": "All systems operational",
   "min_version": "0.4.0",
   "last_updated": "2026-05-08T18:24:14.556007Z",
