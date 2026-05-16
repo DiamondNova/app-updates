@@ -1,9 +1,9 @@
 {
   "status": "active",
-  "valid_until": "2026-08-03T18:24:14.555839Z",
-  "grace_days": 8,
+  "valid_until": "2027-05-11T01:12:23.618697Z",
+  "grace_days": 5,
   "message": "All systems operational",
-  "min_version": "0.4.0",
-  "last_updated": "2026-05-08T18:24:14.556007Z",
-  "signature": "f241c169fb8bf7e3a2bbca4fd8d0399a7b230c55aac3186a873e4be912e035a506afec015505438b83ac5182064072a44f36a81e169e1959ad3fc23e03797307"
+  "min_version": "1.0.0",
+  "last_updated": "2026-05-16T01:12:23.618919Z",
+  "signature": "62eba068f70dbf581086c6d7daf2cfb911a04e366a68501f168bbdf8a64c598c2a3806bf49ed4146abaa2153aa06a219124b38ebe3a1fc5adf4a3194d9d3fb04"
 }
